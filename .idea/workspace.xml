@@ -4,16 +4,224 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12068550-e514-4a33-81a1-93f05de5d00f" name="Default Changelist" comment="" />
+    <list default="true" id="22e7b633-7938-4b1f-8ee0-3691d76a8243" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clone_shopee/lib/src/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clone_shopee/lib/src/pages/home/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clone_shopee/lib/src/pages/home/widgets/header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lib/app_screens/choice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lib/app_screens/ex1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lib/app_screens/image_location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/FlutterProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/FlutterProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/kotlin/com/example/lab3_p1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p1/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/kotlin/com/example/lab3_p2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p2/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/kotlin/com/example/lab3_p3/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/lab3_p3/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter_app_part1_step1/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/starter_app_part1_step1/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run_starter_app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter_app_part1_step1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/starter_app_part1_step1" />
   </component>
-  <component name="ProjectId" id="23YoLqJwVzpLQWlBku8N5mZzPsV" />
+  <component name="ProjectId" id="23vQq4ZBjldhEpSRwv2Avu04yLl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,12 +237,24 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12068550-e514-4a33-81a1-93f05de5d00f" name="Default Changelist" comment="" />
-      <created>1641920328077</created>
+      <changelist id="22e7b633-7938-4b1f-8ee0-3691d76a8243" name="Default Changelist" comment="" />
+      <created>1642612267272</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641920328077</updated>
+      <updated>1642612267272</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -22,6 +22,6 @@ void main() {
         appBar: AppBar(
           title: const Text("Widgets Exercise"),
         ),
-        body: const BasicListView()),
+        body: const Exercise6()),
   ));
 }
