@@ -18,6 +18,7 @@ class Exercise7 extends StatelessWidget {
           children: <Widget>[
             Container(
               margin: const EdgeInsets.only(top: 25.0),
+              padding: const EdgeInsets.only(left: 30),
               child: Row(
                 children: const <Widget>[
                   Expanded(
@@ -47,6 +48,7 @@ class Exercise7 extends StatelessWidget {
             ),
             Container(
               margin: const EdgeInsets.only(top: 10.0),
+              padding: const EdgeInsets.only(left: 30),
               child: Row(
                 children: const <Widget>[
                   Expanded(
@@ -74,14 +76,8 @@ class Exercise7 extends StatelessWidget {
                 ],
               ),
             ),
-            Container(
-                // alignment: Alignment.centerLeft,
-                // margin: const EdgeInsets.only(left: 10.0),
-                child: const ImageGuitar()),
-            Container(
-                // alignment: Alignment.center,
-                // margin: const EdgeInsets.only(bottom: 10.0),
-                child: const SubmitButton()),
+            const ImageGuitar(),
+            const SubmitButton(),
           ],
         ),
       ),

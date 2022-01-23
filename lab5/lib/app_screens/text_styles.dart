@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class TextStyles extends StatelessWidget {
+  const TextStyles({Key? key}) : super(key: key);
+
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {

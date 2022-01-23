@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const MyApp());
+void main() => runApp(MyApp());
 
 class PetName extends StatelessWidget {
   final String name;
