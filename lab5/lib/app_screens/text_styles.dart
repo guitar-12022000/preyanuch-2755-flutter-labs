@@ -10,8 +10,8 @@ class TextStyles extends StatelessWidget {
       child: Container(
         alignment: Alignment.center,
         color: Colors.lightBlueAccent,
-        // width: 200,
-        // height: 100,
+        width: 200,
+        height: 100,
         padding: const EdgeInsets.all(10.0),
         margin: const EdgeInsets.all(10.0),
         child: const Text(

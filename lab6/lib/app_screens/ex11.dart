@@ -1,5 +1,6 @@
+//Ex11
 import 'package:flutter/material.dart';
-import 'package:lab6ver2/app_screens/long_list_ex11.dart';
+import 'package:lab6/app_screens/long_list_ex11.dart';
 
 class FABSnLongL extends StatefulWidget {
   const FABSnLongL({Key? key}) : super(key: key);

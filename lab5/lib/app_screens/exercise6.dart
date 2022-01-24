@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lab5_part1/app_screens/image_guitar.dart';
+import 'image_guitar.dart';
 
 class Exercise6 extends StatelessWidget {
   const Exercise6({Key? key}) : super(key: key);
@@ -9,8 +9,8 @@ class Exercise6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        padding: const EdgeInsets.only(left: 20.0, top: 10.0),
-        // margin: const EdgeInsets.only(bottom: 10.0),
+        padding: const EdgeInsets.only(left: 30.0, top: 10.0, bottom: 50),
+        margin: const EdgeInsets.only(bottom: 10.0),
         alignment: Alignment.center,
         color: Colors.lightBlueAccent,
         child: Column(
@@ -26,7 +26,7 @@ class Exercise6 extends StatelessWidget {
                         decoration: TextDecoration.none,
                         fontSize: 20.0,
                         fontFamily: 'Prompt',
-                        color: Colors.purple),
+                        color: Colors.white),
                   ),
                 ),
                 Expanded(
@@ -35,9 +35,9 @@ class Exercise6 extends StatelessWidget {
                     textDirection: TextDirection.ltr,
                     style: TextStyle(
                         decoration: TextDecoration.none,
-                        fontSize: 20.0,
+                        fontSize: 25.0,
                         fontFamily: 'Prompt',
-                        color: Colors.purple),
+                        color: Colors.white),
                   ),
                 ),
               ],

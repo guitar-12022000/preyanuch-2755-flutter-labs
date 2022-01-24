@@ -1,4 +1,4 @@
-package com.example.lab5_part1
+package com.example.lab5
 
 import io.flutter.embedding.android.FlutterActivity
 

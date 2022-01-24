@@ -1,5 +1,7 @@
+//Ex10
+
 import 'package:flutter/material.dart';
-import 'package:lab6ver2/app_screens/long_list_for_fab.dart';
+import 'package:lab6/app_screens/long_list_for_fab.dart';
 
 class FABState extends StatefulWidget {
   const FABState({Key? key}) : super(key: key);

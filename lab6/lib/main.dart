@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'app_screens/ex11.dart';
+import 'app_screens/fab_state.dart';
 import 'app_screens/long_list.dart';
-import 'package:lab6ver2/app_screens/fab_state.dart';
-import 'package:lab6ver2/app_screens/ex11.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text("Widgets Exercise"),
         ),
-        // body: getListView(30),//***Exercise9
+        // body: getListView(30), //***Exercise9
         // body: const FABState(), //***Exercise10
         body: const FABSnLongL(), //***Exercise11
       ),
