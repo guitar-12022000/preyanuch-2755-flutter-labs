@@ -6,7 +6,7 @@ List<String> getListElements(int count) {
   return items;
 }
 
-Widget getListView(int count) {
+Widget getListView(count) {
   var listItems = getListElements(count);
   var listViews = ListView.builder(
       itemCount: listItems.length,

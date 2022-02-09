@@ -34,8 +34,7 @@ class MyApp extends StatelessWidget {
 //         appBar: AppBar(
 //           title: const Text('Layout Flutter Exercise by Preyanuch'),
 //         ),
-//          body: const Exercise1(), //***Exercise1
-//
+//         body: const Exercise1(), //***Exercise1
 //       ),
 //     );
 //   }
