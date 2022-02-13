@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:lab8/app_screens/faculty_list.dart';
 import 'package:lab8/app_screens/responsive_ex1.dart';
 
+import 'app_screens/responsive_ex2.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -17,7 +19,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blueGrey,
       ),
       // home: const FacultyList(), //Ex1
-      home: const ResponsiveEx1(), //Ex2
+      // home: const ResponsiveEx1(), //Ex2
+      home: const ResponsiveEx2(), //Ex2
       debugShowCheckedModeBanner: false,
     );
   }
