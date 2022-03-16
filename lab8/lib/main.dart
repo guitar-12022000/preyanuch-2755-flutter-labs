@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blueGrey,
       ),
       // home: const FacultyList(), //Ex1
-      // home: const ResponsiveEx1(), //Ex2
       home: const ResponsiveEx2(), //Ex2
+      // home: const ResponsiveEx2(), //Ex2
       debugShowCheckedModeBanner: false,
     );
   }
