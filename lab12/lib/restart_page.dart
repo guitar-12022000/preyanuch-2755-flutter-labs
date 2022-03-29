@@ -1,5 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:lab12/provider/getscore_screen_provider.dart';
+import 'package:provider/provider.dart';
 
 class Restart extends StatefulWidget {
   const Restart({Key? key}) : super(key: key);
@@ -9,6 +10,18 @@ class Restart extends StatefulWidget {
 }
 
 class _RestartState extends State<Restart> {
+  void pressButton(BuildContext context) {
+    setState(() {
+      Navigator.of(context).pushNamed('/');
+    });
+    getPoint(context);
+  }
+
+  void getPoint(BuildContext context) {
+    final score = Provider.of<GetScoreScreenProvider>(context, listen: false);
+    score.resetScore();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -17,9 +30,14 @@ class _RestartState extends State<Restart> {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              Consumer<GetScoreScreenProvider>(
+                builder: (context, provider, child) {
+                  return Text("Your Score is ${provider.getScore}");
+                },
+              ),
               ElevatedButton(
                 onPressed: () {
-                  Navigator.of(context).pushNamed('/');
+                  pressButton(context);
                 },
                 child: const Text("Restart"),
               ),

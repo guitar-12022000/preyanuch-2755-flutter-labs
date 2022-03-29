@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:lab11_ex3/widgets/quiz_layout.dart';
+import 'package:lab12/provider/getscore_screen_provider.dart';
+import 'package:lab12/widgets/quiz_layout.dart';
 
 class QuizInfo extends StatefulWidget {
   const QuizInfo({Key? key}) : super(key: key);
@@ -38,5 +39,6 @@ class _QuizInfoState extends State<QuizInfo> {
   @override
   Widget build(BuildContext context) {
     return Quiz(num: 1, info: prezInfo);
+    // GetScoreScreenProvider(num: 1, info: prezInfo);
   }
 }
