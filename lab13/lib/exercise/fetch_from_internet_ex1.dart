@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-import '../jason_object/jason object_ex1.dart';
+import '../jason_object/jason_object_ex1.dart';
 
 Future<Album> fetchAlbum() async {
   final response =

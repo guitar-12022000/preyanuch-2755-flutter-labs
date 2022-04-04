@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'main/main_ex1.dart';
+import 'main/main_ex2.dart';
 
 void main() {
-  runApp(const Exercise1());
+  runApp(const Exercise2());
 }

@@ -1,5 +1,4 @@
 import 'dart:core';
-import 'package:http/http.dart' as http;
 
 class Album {
   final String name;

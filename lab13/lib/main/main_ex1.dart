@@ -1,8 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:lab13/exercise/fetch_from_internet_ex1.dart';
-
-import '../jason_object/jason object_ex1.dart';
+import '../jason_object/jason_object_ex1.dart';
 
 class Exercise1 extends StatefulWidget {
   const Exercise1({Key? key}) : super(key: key);
@@ -14,6 +12,7 @@ class Exercise1 extends StatefulWidget {
 class _Exercise1State extends State<Exercise1> {
   late Future<Album> futureAlbum;
 
+  @override
   void initState() {
     super.initState();
     futureAlbum = fetchAlbum();
